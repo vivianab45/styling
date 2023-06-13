@@ -1,0 +1,24 @@
+h1{
+    
+    color:aqua;
+    background-color:black;
+    .multicolortext{
+        
+    }
+}
+
+
+h2{
+    color:white;
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    
+ }
+
+
+ h3{
+    background-color:cornflowerblue;
+    text-align: right;
+    text-decoration:underline;
+ }
